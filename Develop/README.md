@@ -1,4 +1,4 @@
-# Sample Title [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Sample Project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 This is a description.
@@ -15,7 +15,7 @@ This is a description.
 This is how to install.
 
 ## Usage
-This is how to use.
+This is how to use the app.
 
 ## License
 The MIT License
